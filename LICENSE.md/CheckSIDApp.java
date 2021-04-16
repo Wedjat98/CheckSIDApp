@@ -12,8 +12,8 @@ import javafx.stage.Stage;
 // 学籍番号が正しい形式かどうかを判定するメソッド
 public class CheckSIDApp extends Application {
 
-	public static String gakuban = "19ec601";
-	public static String yourname = "サイホウリン";
+	public static String gakuban = "19EC000";//学籍番号を入力すること
+	public static String yourname = "千住旭";// 氏名を入力すること
 /* 課題2-1のコード
  * checkSID(String)の戻り値 は matchesメソッド の return value に設定しています。
  */
