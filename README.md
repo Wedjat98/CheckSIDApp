@@ -1,4 +1,4 @@
-# -TDU-Student-Number-Determination-Project
+# -TDU-Student-Number-Determination
 学籍番号が正しい形式かどうかを判定する
 
 
